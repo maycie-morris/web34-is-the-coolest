@@ -8,7 +8,7 @@ function App() {
     <main>
       <h1>My First Vercel Deployment!</h1>
       <h2>
-        Deployed with{' '}
+        Deployed with{' '} and Maycie of course :P
         <a
           href="https://vercel.com/docs"
           target="_blank"
